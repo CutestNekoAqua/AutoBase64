@@ -1,6 +1,7 @@
 # AutoBase64
 ## Automatic Base64 encoder and decoder
 With this you can autmaticly encode and decode multiple levels of Base64 (eg. Original text -> encoded layer 1 -> encoded layer 2..)
+
 !! You need to reload the log manually with the button to see new log (because I'm stupid) !!
 
 ### Known Bugs:
